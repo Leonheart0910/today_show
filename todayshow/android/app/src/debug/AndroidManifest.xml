@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mycompany.todayshow">
+
+    <!-- 앱이 인터넷을 사용할 수 있도록 허용 -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:name="${daily performacne}">
+        
+        <!-- 기존 앱 설정들 -->
+    </application>
+</manifest>
